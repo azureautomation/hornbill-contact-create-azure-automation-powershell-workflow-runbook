@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 5731,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-contact-create-azure-automation-powershell-workflow-runbook/master/Hornbill_ContactCreate_Workflow.ps1",
+    "DownloadCount": 736,
+    "Id": "Hornbill-Create-Contact-8fb1ced6",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 522,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This is an Azure Automation Powershell Workflow Runbook which will create a contact record on a Hornbill instance.",
+    "Title": "Hornbill Contact Create - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-contact-create-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
